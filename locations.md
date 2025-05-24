@@ -1,4 +1,5 @@
 | location            | boss              | sprite                               | Location Image                            | notes               |
+| ------------------- | ----------------- | ------------------------------------ | ----------------------------------------- | ------------------- |
 | Mist Cave           | D. Mist           | ![](boss_sprites/d_mist.png)         | ![](boss_locations/d_mist.png)            |                     |
 | Kaipo Inn           | Waterhag          | ![](boss_sprites/blue_guy.png)       | ![](boss_locations/kaipo.png)             | After burning Mist  |
 | Waterfall           | Octomamm          | ![](boss_sprites/octomamm.png)       | ![](boss_locations/waterfall.png)         |                     |
