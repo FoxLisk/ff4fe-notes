@@ -5,13 +5,13 @@
 | Waterfall           | Octomamm          | ![](boss_sprites/octomamm.png)       | ![](boss_locations/waterfall.png)         |                     |
 | Antlion Cave        | Antlion           | ![](boss_sprites/antlion.png)        | ![](boss_locations/antlion.png)           | Antlion             |
 | Mt. Hobbs           | Mombomb           | ![](boss_sprites/mombomb.png)        | ![](boss_locations/mt_hobbs.png)          |                     |
-| Fabul               | Gauntlet          | ![](boss_sprites/blue_guard.png)     | ![](boss_locations/fabul.png)             | Heal before & after |
+| Fabul               | Gauntlet          | ![](boss_sprites/blue_guy.png)       | ![](boss_locations/fabul.png)             | Heal before & after |
 | Mt. Ordeals 1       | Milon             | ![](boss_sprites/purple_guy.png)     | ![](boss_locations/mt_ordeals_1.png)      |                     |
 | Mt. Ordeals 2       | Milon Z           | ![](boss_sprites/purple_guy.png)     | ![](boss_locations/mt_ordeals_2.png)      | Back attack         |
 | Mt. Ordeals 3       | Dark Knight cecil | ![](boss_sprites/dkc.png)            | ![](boss_locations/mt_ordeals_3.png)      | Heal after          |
 | Baron Inn 1         | Guard x2          | ![](boss_sprites/blue_guard.png)     | ![](boss_locations/baron_inn.png)         | Triggers back to back fight |
 | Baron Inn 2         | Yang              | ![](boss_sprites/yang.png)           | ![](boss_locations/baron_inn.png)         | Heal after          |
-| Baron Castle 1      | Baigan            | ![](boss_sprites/king.png)           | ![](boss_locations/baron_1.png)           |                     |
+| Baron Castle 1      | Baigan            | ![](boss_sprites/red_guard.png)      | ![](boss_locations/baron_1.png)           |                     |
 | Baron Castle 2      | Kainazzo          | ![](boss_sprites/kainazzo.png)       | ![](boss_locations/baron_2.png)           |                     |
 | Baron Castle 3      | Odin              | ![](boss_sprites/king.png)           | ![](boss_locations/baron_3.png)           |                     |
 | Cave Magnes         | Dark Elf          | ![](boss_sprites/dark_elf.png)       | ![](boss_locations/cave_magnes.png)       | Forced loss, then full heal before |
@@ -34,3 +34,7 @@
 | White Spear altar   | Plague            | ![](boss_sprites/sparkle.png)        | ![](boss_locations/white_spear_altar.png) |                     |
 | Ribbon room         | D. Lunar          | ![](boss_sprites/sparkle.png)        | ![](boss_locations/ribbon_room.png)       |                     |
 | masamune altar      | Ogopogo           | ![](boss_sprites/sparkle.png)        | ![](boss_locations/masamune_altar.png)    |                     |
+
+# TODO
+
+* Where is officer + soldiers vanilla?
