@@ -2,7 +2,8 @@
 | ------------------- | ----------------- | ------------------------------------ | ------------------------------------------ | ------------------- |
 | Mist Cave           | D. Mist           | ![](boss_sprites/d_mist.png)         | ![](boss_locations/d_mist.png)             |                     |
 | Package Turn In     | Officer & Soldiers| ![](boss_sprites/blue_guy.png)       | ![](boss_locations/kaipo.png)              | After burning Mist; Heal after mist cutscene, before the fight, and after the fight  |
-| Sandruby Turn In    |                   |                                      | ![](boss_locations/kaipo.png)              | Heal after          |
+| Sandruby Turn In    | (None)            |                                      | ![](boss_locations/kaipo.png)              | heal after          |
+| (None)              | WaterHag          | ![](boss_sprites/blue_guy.png)       |                                            |                     |
 | Waterfall           | Octomamm          | ![](boss_sprites/octomamm.png)       | ![](boss_locations/waterfall.png)          |                     |
 | Antlion Cave        | Antlion           | ![](boss_sprites/antlion.png)        | ![](boss_locations/antlion.png)            |                     |
 | Mt. Hobbs           | Mombomb           | ![](boss_sprites/mombomb.png)        | ![](boss_locations/mt_hobbs.png)           |                     |
