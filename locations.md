@@ -1,8 +1,8 @@
 | location            | boss              | sprite                               | Location Image                             | notes               |
 | ------------------- | ----------------- | ------------------------------------ | ------------------------------------------ | ------------------- |
 | Mist Cave           | D. Mist           | ![](boss_sprites/d_mist.png)         | ![](boss_locations/d_mist.png)             |                     |
-| Kaipo Inn           | Officer & Soldiers| ![](boss_sprites/blue_guy.png)       | ![](boss_locations/kaipo.png)              | After burning Mist  |
-| Sandruby Turn In    | Waterhag          | ![](boss_sprites/blue_guy.png)       | ![](boss_locations/kaipo.png)              | ?                   |
+| Package Turn In     | Officer & Soldiers| ![](boss_sprites/blue_guy.png)       | ![](boss_locations/kaipo.png)              | After burning Mist; Heal after mist cutscene, before the fight, and after the fight  |
+| Sandruby Turn In    |                   |                                      | ![](boss_locations/kaipo.png)              | Heal after          |
 | Waterfall           | Octomamm          | ![](boss_sprites/octomamm.png)       | ![](boss_locations/waterfall.png)          |                     |
 | Antlion Cave        | Antlion           | ![](boss_sprites/antlion.png)        | ![](boss_locations/antlion.png)            |                     |
 | Mt. Hobbs           | Mombomb           | ![](boss_sprites/mombomb.png)        | ![](boss_locations/mt_hobbs.png)           |                     |
@@ -34,4 +34,6 @@
 | Crystal Sword altar | Wyvern            | ![](boss_sprites/sparkle.png)        | ![](boss_locations/crystal_sword_altar.png)|                     |
 | White Spear altar   | Plague            | ![](boss_sprites/sparkle.png)        | ![](boss_locations/white_spear_altar.png)  |                     |
 | Ribbon room         | D. Lunar          | ![](boss_sprites/sparkle.png)        | ![](boss_locations/ribbon_room.png)        |                     |
-| masamune altar      | Ogopogo           | ![](boss_sprites/sparkle.png)        | ![](boss_locations/masamune_altar.png)     |                     |
+| Masamune altar      | Ogopogo           | ![](boss_sprites/sparkle.png)        | ![](boss_locations/masamune_altar.png)     |                     |
+
+Note: because there is no boss fight at the SandRuby turn in, but the WaterHag is added to the boss pool, there will be one boss omitted from the boss pool for normal boss shuffles.
