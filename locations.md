@@ -9,7 +9,7 @@
 | Fabul               | Gauntlet          | ![](boss_sprites/blue_guy.png)       | ![](boss_locations/fabul.png)              | Heal before & after |
 | Mt. Ordeals 1       | Milon             | ![](boss_sprites/purple_guy.png)     | ![](boss_locations/mt_ordeals_1.png)       |                     |
 | Mt. Ordeals 2       | Milon Z           | ![](boss_sprites/purple_guy.png)     | ![](boss_locations/mt_ordeals_2.png)       | Back attack         |
-| Mt. Ordeals 3       | Dark Knight cecil | ![](boss_sprites/dkc.png)            | ![](boss_locations/mt_ordeals_3.png)       | Heal after          |
+| Mt. Ordeals 3       | Dark Knight cecil | ![](boss_sprites/dkc.png)            | ![](boss_locations/mt_ordeals_3.png)       | Heal before & after |
 | Baron Inn 1         | Guard x2          | ![](boss_sprites/blue_guard.png)     | ![](boss_locations/baron_inn.png)          | Triggers back to back fight |
 | Baron Inn 2         | Yang              | ![](boss_sprites/yang.png)           | ![](boss_locations/baron_inn.png)          | Heal after          |
 | Baron Castle 1      | Baigan            | ![](boss_sprites/red_guard.png)      | ![](boss_locations/baron_1.png)            |                     |
@@ -17,7 +17,7 @@
 | Baron Castle 3      | Odin              | ![](boss_sprites/king.png)           | ![](boss_locations/baron_3.png)            |                     |
 | Cave Magnes         | Dark Elf          | ![](boss_sprites/dark_elf.png)       | ![](boss_locations/cave_magnes.png)        | Forced loss, then full heal before |
 | Tower of Zot 1      | Magus Sisters     | ![](boss_sprites/magus_sisters.png)  | ![](boss_locations/zot_1.png)              |                     |
-| Tower of Zot 2      | Valvalis          | ![](boss_sprites/valvalis.png)       | ![](boss_locations/zot_2.png)              | Heal before         |
+| Tower of Zot 2      | Valvalis          | ![](boss_sprites/valvalis.png)       | ![](boss_locations/zot_2.png)              | Heal after          |
 | Dwarf Castle 1      | Calbrena          | ![](boss_sprites/calbrena.png)       | ![](boss_locations/dwarf_castle.png)       |                     |
 | Dwarf Castle 2      | Golbez            | ![](boss_sprites/golbez.png)         | ![](boss_locations/dwarf_castle.png)       |                     |
 | Hook Route 1        | Eblans            | ![](boss_sprites/kqeblan.png)        | ![](boss_locations/hook_route_1.png)       |                     |
@@ -27,7 +27,7 @@
 | Sealed Cave         | Evil Wall         | ![](boss_sprites/evilwall.png)       | ![](boss_locations/sealed_cave.png)        | Grab item first     |
 | Feymarch King       | Leviatan          | ![](boss_sprites/leviatan.png)       | ![](boss_locations/feymarch_king.png)      |                     |
 | Feymarch Queen      | Asura             | ![](boss_sprites/asura.png)          | ![](boss_locations/feymarch_queen.png)     |                     |
-| Giant of Bab-Il 1   | Elements          | ![](boss_sprites/rubicante.png)      | ![](boss_locations/babil_1.png)            |                     |
+| Giant of Bab-Il 1   | Elements          | ![](boss_sprites/rubicante.png)      | ![](boss_locations/babil_1.png)            | Heal before         |
 | Giant of Bab-Il 2   | CPU               | ![](boss_sprites/cpu.png)            | ![](boss_locations/babil_2.png)            |                     |
 | Cave Bahamut        | Bahamut           | ![](boss_sprites/bahamut.png)        | ![](boss_locations/cave_bahamut.png)       |                     |
 | Murasame altar      | Pale Dim          | ![](boss_sprites/sparkle.png)        | ![](boss_locations/murasame_altar.png)     |                     |
